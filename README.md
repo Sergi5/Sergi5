@@ -8,10 +8,10 @@ ________________________________________________________________________________
 
 ### Tools
 
-Jira
-TestRail
-ScreenCast-O-Matic
-AZ Screen Recorder
+* Jira
+* TestRail
+* ScreenCast-O-Matic
+* AZ Screen Recorder
 _____________________________________________________________________________________________________
 
 ### Tech Skills
