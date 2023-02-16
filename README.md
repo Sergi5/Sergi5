@@ -16,12 +16,12 @@ ________________________________________________________________________________
 
 ### Tech Skills
 
-*SQL
-*DevTools
-*SCRUM
-*Software testing
-*Creating test cases
-*Reporting bugs
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
 
 _____________________________________________________________________________________________________
 
@@ -35,11 +35,11 @@ ________________________________________________________________________________
 
 ### Blogs
 
-testerzy.pl
-testuj.pl - Test, Bugs & Rock'n'Roll
-remigiuszbednarczyk.pl
-pwicherski.gitbook.io
-GeekON
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* remigiuszbednarczyk.pl
+* pwicherski.gitbook.io
+* GeekON
 _____________________________________________________________________________________________________
 
 ### Webinars
