@@ -12,13 +12,13 @@ ________________________________________________________________________________
 * TestRail
 * ScreenCast-O-Matic
 * AZ Screen Recorder
-* Chrome DevTools
+
 _____________________________________________________________________________________________________
 
 ### Tech Skills
 
 * SQL
-* DevTools
+* Chrome DevTools
 * SCRUM
 * Software testing
 * Creating test cases
